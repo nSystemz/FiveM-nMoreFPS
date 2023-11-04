@@ -3,7 +3,7 @@ FiveM nMoreFPS
 
 Diese Ressource fügt eurem FiveM Server einen FPS-Mode Befehl /fpsmode hinzu, dadurch erreicht Ihr mehr FPS im Spiel (Es werden z.b Schatten und andere Details deaktiviert!)
 
-Youtube Video: https://www.youtube.com/watch?v=AJGVsdCZdAw
+Youtube Video: https://www.youtube.com/watch?v=FadL3myfDgA
 
 Support: https://discord.nemesus.de
 
